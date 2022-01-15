@@ -46,3 +46,9 @@ You are required to submit the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## Submission
+* Submission link: 
+https://kirianthony.github.io/password-generator/
+* Submission screenshot: 
+![screenshot](https://user-images.githubusercontent.com/94418477/149635996-6c76caa6-1265-40a7-9b9b-4e65ce56c2ae.png)
