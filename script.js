@@ -241,6 +241,7 @@ function generatePassword() {
       }
     } 
     console.log(word);
+
   return word;
 }
 
